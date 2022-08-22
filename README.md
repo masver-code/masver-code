@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Thomas Vermette
+- McGill Certificate in Computer infomation technology and Programming
 - 👀 I’m interested in 
 - Front-End Web develoment (Javascript, Html, CSS, SASS, Java)
 - Software Development
